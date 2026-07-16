@@ -1,4 +1,11 @@
 
+I've placed two MonoGame projects:
+- MonoGameImportFBX.381
+- MonoGameImportFBX.385
+
+They're exactly the same, being the package versions the only thing that changes between the two.
+
+When run, this is how they render:
 
 This is how the modeles are oriented in 3.8.1
 
